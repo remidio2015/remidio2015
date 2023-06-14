@@ -2,7 +2,7 @@
 <img src="https://static.adecoretecidos.com.br/public/adecoretecidos/imagens/produtos/painel-sublimado-hulk-15359.jpg" width="400px">
 
 
-Eu sou <strong>Ronaldo</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Ronaldo</strong>, <strong>gosto de desafios</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>java script</strong> 
 - 💬 Pergunte-me sobre: <strong>praia</strong>
